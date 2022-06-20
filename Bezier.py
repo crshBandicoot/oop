@@ -1,5 +1,3 @@
-from tkinter import W
-from trace import Trace
 import matplotlib.pyplot as plotter
 
 
@@ -58,3 +56,5 @@ if __name__ == '__main__':
 
     plotter.plot(x_arr, y_arr)
     plotter.show()
+    a = [1,2,3]
+    b= ['a','b','c']
